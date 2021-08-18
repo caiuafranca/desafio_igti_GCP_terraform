@@ -11,4 +11,4 @@ Proposta: Criar um pipeline de dados com as etapas de ingestão, transformação
 
 # Visão da Solução
 
-![Infra](images/infra.png)
+![Infra](images/infra_proposta.png)
